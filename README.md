@@ -104,7 +104,7 @@ Contributions to expand this curated landscape are welcome!
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create your feature branch**: `git checkout -b feature/add-new-tool`
-3. ✍️ **Add your entry**: Follow the existing Markdown table format, including verified starting pricing, trial terms, and GitHub Stars_Badges
+3. ✍️ **Add your entry**: Follow the existing Markdown table format, including verified starting pricing, trial terms, and GitHub_Stars_Badges
 4. 🚀 **Submit a Pull Request** with a concise description of the platform's approval workflow capabilities
 
 ---
