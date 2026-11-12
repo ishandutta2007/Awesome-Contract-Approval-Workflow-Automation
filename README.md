@@ -62,9 +62,9 @@ The sector exhibits **high fragmentation** across the mid-market and legal-tech 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Open-source workflow engines, approval orchestrators, and digital agreement frameworks sorted by GitHub stars in descending order.*
+*Open-source workflow engines, approval orchestrators, and digital agreement frameworks sorted by GitHub_Stars in descending order.*
 
-| Project | Stars | Language | Primary Approval & Automation Capabilities |
+| Project | GitHub_Stars | Language | Primary Approval & Automation Capabilities |
 |---|:---:|:---:|---|
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript | Fair-code visual workflow automation engine. Supports multi-stage contract routing, human-in-the-loop approval triggers via Slack/Email, webhook callbacks, and 400+ pre-built integrations. |
 | **[Activepieces](https://github.com/activepieces/activepieces)** | [![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | TypeScript | Open-source alternative to Zapier & Make. Offers visual canvas builder, pause-and-resume approval flows, condition branching, and MIT-licensed community edition. |
@@ -104,7 +104,7 @@ Contributions to expand this curated landscape are welcome!
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create your feature branch**: `git checkout -b feature/add-new-tool`
-3. ✍️ **Add your entry**: Follow the existing Markdown table format, including verified starting pricing, trial terms, and GitHub star badges
+3. ✍️ **Add your entry**: Follow the existing Markdown table format, including verified starting pricing, trial terms, and GitHub Stars_Badges
 4. 🚀 **Submit a Pull Request** with a concise description of the platform's approval workflow capabilities
 
 ---
