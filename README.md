@@ -1,6 +1,6 @@
 # Awesome-Contract-Approval-Workflow-Automation
 
-# Top Contract Approval Workflow Automation Ecosystem
+## Top Contract Approval Workflow Automation Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Rule-Based Routing, Multi-Stage Approvals & No-Code Workflow Design*  
